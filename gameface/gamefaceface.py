@@ -1,7 +1,4 @@
-from gameface.interfaces.customwindowinterface import CustomWindowInterface
-import tkinter
-import tkinter.messagebox
-import customtkinter
+from gameface.interfaces.ui.customwindowinterface import CustomWindowInterface
 
 
 class GameFaceFace(CustomWindowInterface):
