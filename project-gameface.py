@@ -1,10 +1,12 @@
 from gameface.gamefaceface import GameFaceFace
+from gameface.state.application_state import ApplicationState
 
 
 class Main:
 
     def __init__(self) -> None:
         super().__init__()
+        self.state = ApplicationState()
 
     def start(self):
         app = GameFaceFace()

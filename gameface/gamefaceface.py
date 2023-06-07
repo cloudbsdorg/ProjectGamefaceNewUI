@@ -1,3 +1,4 @@
+from gameface.interfaces.state.state import StatefulApplication
 from gameface.interfaces.ui.customwindowinterface import CustomWindowInterface
 
 

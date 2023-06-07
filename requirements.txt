@@ -15,6 +15,7 @@ psutil==5.9.5
 pyautogui==0.9.54
 pynput==1.7.6
 sounddevice==0.4.6
+schedule==1.2.0
 PyDirectInput==1.0.4; sys_platform == 'win32'
 # pydirectinput-rgx==2.0.7; sys_platform == 'win32'
 pyuac==0.0.3; sys_platform == 'win32'
