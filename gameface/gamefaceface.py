@@ -7,5 +7,5 @@ import customtkinter
 class GameFaceFace(CustomWindowInterface):
     def __init__(self) -> None:
         super().__init__()
-        self.title("CustomTkinter complex_example.py")
+        self.title("Project GameFACE XX.XX.XX")
         self.geometry(f"{1100}x{580}")
